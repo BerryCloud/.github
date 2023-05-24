@@ -1,6 +1,13 @@
 ## Hi there 👋
 
-Berry Cloud is an e-learing company based in Edinburgh.
+Berry Cloud develops and maintains bespoke learning platforms and infrastructure.
+
+### Open source
+
+Projects maintained by Berry Cloud
+
+* [xAPI Java](https://github.com/BerryCloud/xapi-java)
+* [ngx-unsplash](https://github.com/BerryCloud/ngx-unsplash)
 
 <!--
 
