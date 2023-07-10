@@ -7,6 +7,7 @@ We are a small team of developers and designers who are passionate about learnin
 ### 🌱 We're currently working on
 
 - [xAPI Java](https://github.com/BerryCloud/xapi-java)
+- [ngx-xapi](https://github.com/BerryCloud/ngx-xapi)
 - [ngx-unsplash](https://github.com/BerryCloud/ngx-unsplash)
 
 ### 📫 How to reach us
